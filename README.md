@@ -1,5 +1,7 @@
 ### Olá sou Layane Bastos 🤘
 
+Apaixonada por tecnologia e desafios, tentando sempre aprimorar minhas habilidades. Minha meta é conseguir crescer a cada dia e poder, de alguma forma, também contribuir com o crescimento das pessoas a minha volta.
+
 <div align="center">
     <a href="https://beacons.ai/LayaneB">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LayaneB&show_icons=true&theme=midnight-purple">
@@ -20,8 +22,6 @@
     
   ##
     
-Apaixonada por tecnologia e desafios, tentando sempre aprimorar minhas habilidades. Minha meta é conseguir crescer a cada dia e poder, de alguma forma, também contribuir com o crescimento das pessoas a minha volta.
-    
 <div>
     <a href="mailto:layanejuvito@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/layanebastos/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -29,5 +29,6 @@ Apaixonada por tecnologia e desafios, tentando sempre aprimorar minhas habilidad
     ![Snake animation](https://github.com/LayaneB/LayaneB/blob/output/github-contribution-grid-snake.svg)
     
 </div>
+    
 
 
