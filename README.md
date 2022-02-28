@@ -5,6 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LayaneB/LayaneB/edit/main/README.md)
 
 ![Layane GitHub stats](https://github-readme-stats.vercel.app/api?username=LayaneB&show_icons=true&theme=midnight-purple)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LayaneB&layout=compact)](https://github.com/LayaneB/github-readme-stats)
 
 ### Tecnologias que uso
