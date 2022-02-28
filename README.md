@@ -2,11 +2,10 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](layanejuvito@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layanebastos/)
-[![LinkedIn](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LayaneB/LayaneB/edit/main/README.md)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LayaneB/)
 
 ![Layane GitHub stats](https://github-readme-stats.vercel.app/api?username=LayaneB&show_icons=true&theme=midnight-purple)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LayaneB&layout=compact)](https://github.com/LayaneB/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LayaneB&layout=compact&theme=midnight-purple)](https://github.com/LayaneB/github-readme-stats)
 
 ### Tecnologias que uso
 <hr>
