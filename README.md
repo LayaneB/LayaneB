@@ -26,4 +26,4 @@
     
 </div>
 
-![Snake animation](https://github.com/LayaneB/LayaneB/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/LayaneB/LayaneB/blob/output/github-contribution-grid-snake.svg) 
