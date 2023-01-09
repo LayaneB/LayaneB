@@ -1,6 +1,6 @@
 ### Olá sou Layane Bastos 🤘
 
-<div align="center">
+<!-- <div align="center">
     <a href="https://beacons.ai/LayaneB">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LayaneB&show_icons=true&theme=midnight-purple">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LayaneB&layout=compact)](https://github.com/LayaneB/github-readme-stats&theme=midnight-purple">
@@ -26,4 +26,4 @@
     
 </div>
 
-![Snake animation](https://github.com/LayaneB/LayaneB/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LayaneB/LayaneB/blob/output/github-contribution-grid-snake.svg) -->
